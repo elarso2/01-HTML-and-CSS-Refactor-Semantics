@@ -59,6 +59,7 @@ p {
     background-position: center;
 }
 
+/* image placement for main section images */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -86,16 +87,19 @@ aside {
     background-color: #2589bd;
 }
 
+/* Aside section positioning */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Aside section title positioning */
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Aside image positioning */
 .benefit img {
     display: block;
     margin: 10px auto;
