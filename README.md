@@ -15,6 +15,6 @@ My final site product looks like
 
 ![Final semantic Horiseon webpage with navigation bar, main section, aside, as well as header and footer.](./assets/images/HoriseonScreenShot.png)
 
-
+My live website can be found by clicking [here](https://elarso2.github.io/01-HTML-and-CSS-Refactor-Semantics/#social-media-marketing).
 
 
